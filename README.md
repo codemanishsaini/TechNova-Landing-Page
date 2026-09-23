@@ -93,10 +93,10 @@ Sumerix Global
 ## 🔗 Project
 
 GitHub Repository:
-https://github.com/codemanishsaini/
+https://github.com/codemanishsaini/TechNova-Landing-Page
 
 Live Website:
-Add your GitHub Pages link here.
+https://codemanishsaini.github.io/TechNova-Landing-Page/
 
 ## 📄 Internship Task
 
